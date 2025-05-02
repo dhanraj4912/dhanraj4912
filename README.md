@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A passionate Software, IOT and Fullstack developer from India
+
 -🌱 I’m currently learning React, Advanced Java
 
--👨‍💻 All of my projects are available at github.com/ujjwal1248
+-👨‍💻 All of my projects are available at github.com/dhanraj4912
 
--📫 How to reach me ujjwalagrawal1248@gmail.com
+-📫 How to reach me dhanrajsingh4912@gmail.com
 
--📄 Know about my experiences https://www.linkedin.com/in/ujjwal-agrawal-637b9128b/
+-📄 Know about my experiences https://www.linkedin.com/in/dhanraj-singh-870627289/
 
 -⚡ Fun fact I think I can automate everything except my coffee break.
